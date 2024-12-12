@@ -1,0 +1,17 @@
+
+Ÿ
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "list".(µš˜á8¼ÔˆÏ¹2J$6cd99681-2d5f-4084-8f44-069856c8b064
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8ÈÔˆÏ¹2J$c82fa873-f192-452a-8bf6-1818501c1b12
+~	java:S125!"<This block of commented-out lines of code should be removed.(‰Ãé8ÌÔˆÏ¹2J$12b9c4bb-c9e5-4a99-982d-0a7626195629
+˜
+java:S1128"PRemove this unused import 'org.springframework.jdbc.core.BeanPropertyRowMapper'.(ß©Å´ÿÿÿÿÿ8ÌÔˆÏ¹2J$f59d3230-95bf-467d-b0ed-62d898c93cce
+
+java:S1128"GRemove this unused import 'org.springframework.jdbc.core.JdbcTemplate'.(å ê‹ÿÿÿÿÿ8ÌÔˆÏ¹2J$05040261-3887-4e82-9edd-fcdd434c5cb7
+Œ
+java:S1128"DRemove this unused import 'org.springframework.jdbc.core.RowMapper'.(¦¬ÀÙùÿÿÿÿ8ÌÔˆÏ¹2J$0ecc4e11-85f5-41b1-add8-3251ae60f4c8
+q
+java:S1128
+"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw8ÌÔˆÏ¹2J$e7185840-b013-427b-a237-d4532eda82b5
+u
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8ÌÔˆÏ¹2J$23b3511a-8924-4a10-8a5e-e5f45bbb4dae

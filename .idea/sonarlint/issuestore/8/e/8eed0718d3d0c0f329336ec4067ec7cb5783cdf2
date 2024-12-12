@@ -1,0 +1,13 @@
+
+‰
+java:S1192"FDefine a constant instead of duplicating this literal "login" 4 times.(Íı‡Ç8õû®¹2J$35a072d8-9dcd-4766-901c-cd9a3638a20c
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8õû®¹2J$31dbfa05-225c-46b5-bdbb-314d1065cc5c
+‹
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ú­Ç†8„‘û®¹2J$a979e24c-bfdd-4e43-b263-edb4d07c11c0
+’
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(²••¸ıÿÿÿÿ8„‘û®¹2J$7ebe2d8e-2987-47cc-be95-a3daafe80e0e
+r	java:S106"+Replace this use of System.out by a logger.(†–»Óøÿÿÿÿ8‹‘û®¹2J$05ad0527-33e6-4a04-90ba-13d5da15f9a4
+„
+java:S2441"<Make "UserVO" serializable or don't store it in the session.(–Ö¢²ûÿÿÿÿ8‹‘û®¹2J$eaee1af6-4c40-4f5e-9441-db4745bd9abe
+r	java:S106!"+Replace this use of System.out by a logger.(ïÌüÿÿÿÿ8‹‘û®¹2J$23c32f59-2a99-40b0-87e7-57972baf0bff

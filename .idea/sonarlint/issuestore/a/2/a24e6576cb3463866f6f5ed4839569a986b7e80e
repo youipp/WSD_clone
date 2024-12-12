@@ -1,0 +1,14 @@
+
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$82f8252a-4197-4e32-a1d5-0e86479582c1
+‹
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ï·¶ 8ããâß¸2J$776fd094-0228-45e3-9477-335960a7c0bc
+
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(şÃ¢Áøÿÿÿÿ8²Ø´à¸2J$d8b81b94-73a1-4430-b9a9-38c55f1e8f44
+Œ
+java:S4488!"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(éõ8†—‹Ï¹2J$f29ff549-354d-48db-b110-cfc6219bf961
+r	java:S106%"+Replace this use of System.out by a logger.(Ä‡¼Êşÿÿÿÿ8Š—‹Ï¹2J$2b0c6d99-70d8-4884-ba15-d76ad2998b51
+r	java:S106'"+Replace this use of System.out by a logger.(êˆƒàÿÿÿÿÿ8Š—‹Ï¹2J$a5438fe6-e17f-4ae6-b60b-1c3d19cc0f7e
+~	java:S125+"<This block of commented-out lines of code should be removed.(ÎèÏÓ8Œ—‹Ï¹2J$20142dba-677e-46ce-b68d-d1325d467d58
+™
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.PathVariable'.(¹ûñÅşÿÿÿÿ8àüÑ¹2J$d30afe9e-76c3-4801-bfef-b5066832ec21
